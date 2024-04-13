@@ -1,0 +1,8 @@
+1 - E um metodo de programação que organiza o sistema  em forma de objetos, seus principios seriam a Abstração, Encapsulamento, Herança e Polimorfismo.
+
+2 - Uma das opções seria a reutilização de condigo, Abstração e modelagem, Facilidade de manutenção e Extensiabilidade alem da facilidade de migração e integração com outros sistemas.
+
+3 - o mesmo e utilizado para ocultar os codigos e controlar o acesso atraves de modificadores, e reduz a complexibilidade ao ocultar os codigos.
+
+4 - Uma classe define o comprtamento dos objetos, ja o objeto e uma instancia especifica dessa classe.
+
