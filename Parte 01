@@ -6,3 +6,19 @@
 
 4 - Uma classe define o comprtamento dos objetos, ja o objeto e uma instancia especifica dessa classe.
 
+5 - São essenciais em uma classe na programação a objetos que permitem  a inicialização e o comportamento de objetos.
+
+6 - Os metodos estaticos operam quando os dados são compartilhados por todas as instancias de classe chamadas diretamente na classe, ja os metodos de instancias operam em dados especificos de cada objeto e são 
+chamados usando instancias da classe.
+
+7 - O aclopamento e a coesão  são importantes na orientação porque afetam a flexibilidade a manutenibilidade a extensibilidade e tambem a reutilização dos codigos.
+
+8 - O Metodo main e o ponto  de entrada  e o ponto de partida  para a execução  de um progama, assim definindo a logica principal e definida e iniciada.
+
+9 - A passagem de parametros permitem que os metodos acessem e manipulem dados alem de interagir com outros objetos  e executem operações especificas.
+
+10 - A diferença e que o Public permite que todos acessem, o Private e acessado apenas dentro da propria classe em que foram declarados e o Protected e acessivel dentro da propria classe, por classes derivadas (
+subclasses ) e por outra classes no mesmo pacote.
+
+11 - E importante porque fornece uma maneira  conveniente de acessar menbros  de classe ataul, onde a mesma referencia o proprio objeto e chama  construtores da mesma classe.
+
